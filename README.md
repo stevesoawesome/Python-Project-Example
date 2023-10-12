@@ -23,27 +23,27 @@ The following Instacart user data was provided for this project:
 ## Folders:
 These are the contents of the folders utilized for this project:
 
-* Project Management: The Project Brief PDF is located here.
-* Data: This contained two directories, Original and Prepared Data to distinguish between the initial dataset and the altered versions.
-* Scripts: A collection of the Jupyter notebooks created during this project. Contains the Python code utilized for the analysis process.
-* Analysis: Contains the Visualizations directory which stores the graphs and charts created for this project.
-* Sent to Client: The final report provided to the client is stored here.
+* **Project Management:** The Project Brief PDF is located here.
+* **Data:** This contained two directories, Original and Prepared Data to distinguish between the initial dataset and the altered versions.
+* **Scripts:** A collection of the Jupyter notebooks created during this project. Contains the Python code utilized for the analysis process.
+* **Analysis:** Contains the Visualizations directory which stores the graphs and charts created for this project.
+* **Sent to Client:** The final report provided to the client is stored here.
 
-*Note: The Data folder is not included, as the contents were about 80GB.
+***Note:** The Data folder is not included, as the contents were about 80GB.
 
 ## Tools:
-Language: Python
+**Language:** Python
 
-Libraries: Pandas, NumPy, Seaborn, Matplotlib, SciPy
+**Libraries:** Pandas, NumPy, Seaborn, Matplotlib, SciPy
 
-Software: Jupyter Notebooks, Excel, Anaconda Prompt
+**Software:** Jupyter Notebooks, Excel, Anaconda Prompt
 
 ## Skills Demonstrated:
 
-Data Cleaning: Removal of duplicate entries and redundant or unnecessary columns/categories.  Addressed missing values and imputed necessary data.
+**Data Cleaning:** Removal of duplicate entries and redundant or unnecessary columns/categories.  Addressed missing values and imputed necessary data.
 
-Merging Data: Prepared and combined data to centralize information in addition to creating opportunities to derive insight.  Verified data was successfully merged and contents reflected expected results.
+**Merging Data:** Prepared and combined data to centralize information in addition to creating opportunities to derive insight.  Verified data was successfully merged and contents reflected expected results.
 
-Exploratory Data Analysis: Identified key descriptive statistics and created various graphs and charts to visualize relationships between variables.  Derived new variables to further categorize users based on their behaviors or life circumstances.  Developed hypothesis and tested them to derive insight into user behaviors.
+**Exploratory Data Analysis:** Identified key descriptive statistics and created various graphs and charts to visualize relationships between variables.  Derived new variables to further categorize users based on their behaviors or life circumstances.  Developed hypothesis and tested them to derive insight into user behaviors.
 
-Visualizing Data: Created bar charts, scatterplots, histograms and other visual tools to help explain findings from analysis.
+**Visualizing Data:** Created bar charts, scatterplots, histograms and other visual tools to help explain findings from analysis.
