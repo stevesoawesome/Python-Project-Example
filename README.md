@@ -14,11 +14,11 @@ Identify spending habits and develop marketing strategies based on the behaviors
 ## Data:
 The following Instacart user data was provided for this project:
 
--Customer Order Information (orders.csv)
--Customer Re-Order Information (orders_products_prior.csv)
--Instacart Product Details (products.csv)
--Department Information for Products (department.csv)
--User Details (customers.csv)
+*Customer Order Information (orders.csv)
+*Customer Re-Order Information (orders_products_prior.csv)
+*Instacart Product Details (products.csv)
+*Department Information for Products (department.csv)
+*User Details (customers.csv)
 
 ## Tools:
 Language: Python
