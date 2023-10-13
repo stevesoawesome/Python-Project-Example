@@ -1,5 +1,5 @@
 # CareerFoundry Project: Python
-The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they influence the sales of their products.
+The Instacart stakeholders are very interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they influence the sales of their products.
 
 ## Objective:
 <img src="https://i.imgur.com/IT6sQss.png" width="250" height="50">
